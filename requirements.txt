@@ -1,0 +1,11 @@
+ipykernel
+networkx
+osmnx==1.1.1
+ipyleaflet
+python-dotenv
+scikit-learn
+geopandas
+numpy
+pandas
+Shapely
+matplotlib

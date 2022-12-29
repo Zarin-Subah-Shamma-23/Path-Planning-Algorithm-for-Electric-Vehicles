@@ -1,0 +1,2 @@
+,Total No of Nodes,Total No of Edges,Average Degree,Density,Diameter,Average Path Length,Average Clustering Coefficient,Transitivity,Degree Frequency,Degrees
+0,4952,13067,5.2774636510500805,0.0005329694658705394,89,34.581640831358946,0.03947226709746921,0.04732632202636646,"[0, 0, 1224, 83, 121, 47, 2548, 4, 924, 0, 1]","range(0, 11)"
